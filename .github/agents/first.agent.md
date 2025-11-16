@@ -120,9 +120,9 @@ description: |
   # CONTEXT: SCREENSHOTS & UI
   This is a description of the tool in action, as seen in screenshots.
 
-  ### **Image 1: photo_2025-11-16_11-05-16.jpg**
+  ### **Screenshot 1: DevTools Console and Injection**
 
-  This image displays a web browser on the Lichess.org website with the browser's Developer Tools (DevTools) open.
+  This screenshot displays a web browser on the Lichess.org website with the browser's Developer Tools (DevTools) open.
 
   * **Main Window (Lichess):**
       * A chess game is in progress.
@@ -149,9 +149,9 @@ description: |
 
   ---
 
-  ### **Image 2: image-6.png**
+  ### **Screenshot 2: Settings Modal**
 
-  This image shows a "SETTINGS" pop-up modal, which belongs to the "PRIME CHESS" tool from the other images.
+  This screenshot shows a "SETTINGS" pop-up modal, which belongs to the "PRIME CHESS" tool.
 
   * **Title:** "SETTINGS"
   * **Setting 1: PERFECT OPENING**
@@ -173,9 +173,9 @@ description: |
 
   ---
 
-  ### **Image 3: photo_2025-11-16_11-05-31.jpg**
+  ### **Screenshot 3: Active Analysis with Move Arrows**
 
-  This image shows the Lichess.org interface with the "PRIME CHESS" tool actively analyzing a game.
+  This screenshot shows the Lichess.org interface with the "PRIME CHESS" tool actively analyzing a game.
 
   * **Main Window (Lichess):**
       * The interface shows a correspondence game ("Correspondência") between "Anônimo" (Anonymous) and "Stockfish nível 1" (Stockfish level 1).
